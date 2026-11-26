@@ -35,10 +35,6 @@
 
 ---
 
-
-
----
-
 ## 这是什么
 
 《50场AI企业培训赚钱模型》路由入口：39 张能力卡，覆盖市场判断/产品定价/获客/谈单售前/课程设计/交付/持续经营，按意图关键词定位并转交。报价/成本/售前筛选/方案书/课前SOP/高光时刻/复购年框这 7 个晋级能力有独立入口，本路由不重复展开。 metadata: cangjie.generated-by: cangjie-tools v2.5.0 cangjie.variant: router cangjie.bundle-id: bundle.ai-training-profit-model cangjie.capability-count: 46 cangjie.entrypoint-count: 8
@@ -68,6 +64,17 @@ MIT License
 添加时请备注：GitHub-ai-training-profit-model
 
 > 不提供免费技术支持。问题请走 Issue。
+
+---
+
+## 如果要商用
+
+代码是 MIT，商用不需要问我，改、卖、二次开发都行。
+
+不过商用场景通常比自用麻烦：部署环境、数据合规、出了问题谁兜底。真要落到业务里，
+可以先跟我说一声，这些坑我大概率踩过。
+
+微信 **enhaopang**，备注 `GitHub-仓库名`。
 
 ---
 
